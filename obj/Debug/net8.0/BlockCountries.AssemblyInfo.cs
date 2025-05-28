@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlockCountries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59229eaccb11ead5302b1ae2f1e7410375d2a20b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlockCountries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlockCountries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
