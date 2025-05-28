@@ -1,0 +1,6 @@
+@BlockCountries_HostAddress = http://localhost:5056
+
+GET {{BlockCountries_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
